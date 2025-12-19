@@ -49,8 +49,3 @@ Interview Questions & Answers
 
 ---
 
-## 9. Next Topic Recommendation
-
-Docker Architecture → Images vs Containers → Dockerfile (Production Deep Dive)
-
----
