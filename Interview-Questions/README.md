@@ -340,14 +340,6 @@ Use restart policy:
 restart: always
 ```
 
----
 
-# End of 50+ Questions
 
-Let me know if you want:
-
-* **Kubernetes 100 Q&A**
-* **AWS DevOps Scenario Questions**
-* **Terraform interview Q&A**
-* **Linux admin interview Q&A**
 
